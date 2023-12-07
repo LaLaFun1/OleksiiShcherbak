@@ -5,3 +5,11 @@ h2 {
 body {
   background-color: bisque;
 }
+.class1 {
+  font-size: 20px;
+  color: rgb(87, 171, 224);
+}
+#tata {
+  font-size: 20px;
+  color: brown;
+}
